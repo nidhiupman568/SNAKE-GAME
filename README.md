@@ -1,6 +1,6 @@
 
 
-# Snake Game
+# Snake Game 🐍
 
 Welcome to my Snake game! This project recreates the classic Snake game using HTML, CSS, and JavaScript with the HTML5 canvas element.
 
