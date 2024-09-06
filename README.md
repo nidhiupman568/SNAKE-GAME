@@ -2,6 +2,8 @@
 
 Welcome to my Snake game! 🎉 This project recreates the classic Snake game using HTML 📝, CSS 🎨, and JavaScript 💻 with the HTML5 canvas element 🖼️.
 
+Project Demo: https://nidhiupman568.github.io/SNAKE-GAME/
+
 ## Features ✨
 
 - **Canvas Display**: Utilizes HTML5 canvas for rendering the game graphics 🎨🖼️.
